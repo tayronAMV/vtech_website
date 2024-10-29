@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vtech_website/static/css/main.9c8a123a.css",
+    "main.css": "/vtech_website/static/css/main.b13a6c82.css",
     "main.js": "/vtech_website/static/js/main.5ac5c55e.js",
     "static/media/raz.jpeg": "/vtech_website/static/media/raz.f6dbd11d31c8276df47a.jpeg",
     "static/media/Amitay_Elad.jpeg": "/vtech_website/static/media/Amitay_Elad.42900565727ed018e2a8.jpeg",
     "index.html": "/vtech_website/index.html",
-    "main.9c8a123a.css.map": "/vtech_website/static/css/main.9c8a123a.css.map",
+    "main.b13a6c82.css.map": "/vtech_website/static/css/main.b13a6c82.css.map",
     "main.5ac5c55e.js.map": "/vtech_website/static/js/main.5ac5c55e.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c8a123a.css",
+    "static/css/main.b13a6c82.css",
     "static/js/main.5ac5c55e.js"
   ]
 }
